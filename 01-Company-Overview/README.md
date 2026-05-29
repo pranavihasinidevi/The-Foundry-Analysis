@@ -2,7 +2,7 @@ Company Overview — The Foundery
 
 The Foundery is a venture builder designed to transform high‑potential individuals into co‑founders and build companies with them from the ground up. Through an intensive 90‑day Residency at The Foundery Sanctum, participants move from thesis → prototype → operating company, working in a fast‑paced, execution‑driven environment.
 
-### 🎯 What The Foundery Does
+###  What The Foundery Does
 The Foundery operates as a co‑founder factory, combining the discipline of a venture studio with the speed of operator‑led execution.
 
 -Builds companies from scratch with selected co-founders
@@ -15,25 +15,25 @@ The Foundery operates as a co‑founder factory, combining the discipline of a v
 
 -Focuses on execution, not theory
 
-### 👥 Founding Leadership
+###  Founding Leadership
 *Nikhil Kamath
-Co-founder of Zerodha
+(Co-founder of Zerodha)
 
 -Represents India’s modern, tech-driven entrepreneurship wave
 
 *Kishore Biyani
-Founder of Future Group
+(Founder of Future Group)
 
 -Pioneer of India’s retail transformation
 
 *Ronnie Screwvala
-Founder of upGrad & Swades Foundation
+(Founder of upGrad & Swades Foundation)
 
 -Known for building enduring institutions
 
 Together, they bring decades of operating experience, scale, and strategic insight.
 
-### 🧭 Mentor Network & Think Tank
+###  Mentor Network & Think Tank
 The Foundery’s mentor ecosystem includes some of India’s most accomplished entrepreneurs, operators, and investors.
 
 -Vijay Shekhar Sharma — Founder, Paytm
@@ -72,7 +72,7 @@ The Foundery’s mentor ecosystem includes some of India’s most accomplished e
 
 This network forms the strategic backbone of The Foundery.
 
-### 🔥 The Foundery Advantage
+###  The Foundery Advantage
 At The Foundery, founders don’t start from scratch — they start with a complete launch engine.
 
 *Core Pillars
@@ -87,7 +87,7 @@ At The Foundery, founders don’t start from scratch — they start with a compl
 
 -Culture built on momentum, discipline, and execution
 
-### 🌐 The Foundery Ecosystem
+###  The Foundery Ecosystem
 
 *Brand & Design Thinking
 
@@ -113,7 +113,7 @@ At The Foundery, founders don’t start from scratch — they start with a compl
 
 -Talent & hiring systems
 
-### 🏕️ Bootcamp Overview — Your First Test
+###  Bootcamp Overview — Your First Test
 
 Foundery Bootcamp 01
 
@@ -125,7 +125,7 @@ Foundery Bootcamp 01
 
 -Real-time challenges, collaboration, and pressure‑driven execution
 
-### 👥 Cohort Overview — The Ones Who Made It
+###  Cohort Overview — The Ones Who Made It
 Cohort 01
 -23 Co‑Founders
 
