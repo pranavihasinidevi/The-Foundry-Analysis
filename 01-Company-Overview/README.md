@@ -1,4 +1,4 @@
-Company Overview — The Foundery
+### Company Overview — The Foundery
 
 The Foundery is a venture builder designed to transform high‑potential individuals into co‑founders and build companies with them from the ground up. Through an intensive 90‑day Residency at The Foundery Sanctum, participants move from thesis → prototype → operating company, working in a fast‑paced, execution‑driven environment.
 
